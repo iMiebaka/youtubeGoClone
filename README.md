@@ -1,6 +1,6 @@
 <h1 align="center">YouTube Go clone using React Native</h1>
 
-<p align="center"><img width="50%" src="https://github.com/iMiebaka/youtubeGoClone-ReactNative/blob/main/s1.png" alt="react_native_youtube_go_screenshot"> <img width="50%" src="https://github.com/iMiebaka/youtubeGoClone-ReactNative/blob/main/s1.png" alt="react_native_youtube_go_screenshot"></p>
+<p align="center"><img width="50%" src="https://https://github.com/iMiebaka/youtubeGoClone/blob/main/s1.png" alt="react_native_youtube_go_screenshot"> <img width="50%" src="https://github.com/iMiebaka/youtubeGoClone/blob/main/s1.png" alt="react_native_youtube_go_screenshot"></p>
 
 Disclaimer: This app is just a UI for YouTube GO, and does not connect to the internet
 
